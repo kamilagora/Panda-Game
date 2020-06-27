@@ -1,0 +1,4 @@
+/**
+ * Modele
+ */
+package panda.models;

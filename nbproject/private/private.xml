@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/models/interfaces/OnCorrectAnswerListener.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/ChooseLevel.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/components/ImagePanel.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/models/interfaces/OnPlayAgainListener.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/components/package-info.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/components/ImageButton.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/Menu.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/models/interfaces/OnLevelFinishedListener.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/Game.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/models/interfaces/OnBadAnswerListener.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/components/Sprite.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/components/Balloon.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/AboutAuthor.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/models/interfaces/package-info.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/CurrentLevel.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/HowToPlay.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/models/interfaces/OnReturnListener.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/Panda.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/models/Task.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/package-info.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/EndOfLevel.java</file>
+            <file>file:/D:/Programy%20studia/Projekt%20WJP/Panda/src/panda/models/package-info.java</file>
+        </group>
+    </open-files>
+</project-private>
