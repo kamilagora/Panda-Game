@@ -1,4 +1,0 @@
-/**
- * Widoki aplikacji
- */
-package panda;
